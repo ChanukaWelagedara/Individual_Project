@@ -1,0 +1,56 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Image\2.png" />
+    <None Remove="Image\3.png" />
+    <None Remove="Image\4.png" />
+    <None Remove="Image\5.png" />
+    <None Remove="Image\6.png" />
+    <None Remove="Image\add.png" />
+    <None Remove="Image\close.png" />
+    <None Remove="Image\delete.png" />
+    <None Remove="Image\edit.png" />
+    <None Remove="Image\efac.png" />
+    <None Remove="Image\max.png" />
+    <None Remove="Image\maximize.png" />
+    <None Remove="Image\minimize.png" />
+    <None Remove="Image\minus.png" />
+    <None Remove="Image\reload.png" />
+    <None Remove="Image\reset.png" />
+    <None Remove="Image\ruhuna.png" />
+    <None Remove="Image\search.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="8.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Image\2.png" />
+    <Resource Include="Image\3.png" />
+    <Resource Include="Image\4.png" />
+    <Resource Include="Image\5.png" />
+    <Resource Include="Image\6.png" />
+    <Resource Include="Image\add.png" />
+    <Resource Include="Image\close.png" />
+    <Resource Include="Image\delete.png" />
+    <Resource Include="Image\edit.png" />
+    <Resource Include="Image\efac.png" />
+    <Resource Include="Image\max.png" />
+    <Resource Include="Image\maximize.png" />
+    <Resource Include="Image\minimize.png" />
+    <Resource Include="Image\minus.png" />
+    <Resource Include="Image\reload.png" />
+    <Resource Include="Image\reset.png" />
+    <Resource Include="Image\ruhuna.png" />
+    <Resource Include="Image\search.png" />
+  </ItemGroup>
+
+</Project>

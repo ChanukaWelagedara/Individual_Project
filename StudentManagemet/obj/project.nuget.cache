@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9PGIK8qmG4UyyFd6USAizRbPONnd71zg4ecpN6vPI3VEL3+sZe6LCmckU42xhUNu0bUqbPbOJRstLzBiTwE8pg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\keshan\\Documents\\GitHub\\Individual_Project\\StudentManagemet\\StudentManagemet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\keshan\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

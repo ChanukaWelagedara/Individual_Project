@@ -1,0 +1,172 @@
+C:\Users\keshan\source\repos\StudentManagemet\StudentManagemet\bin\Debug\net7.0-windows\StudentManagemet.exe
+C:\Users\keshan\source\repos\StudentManagemet\StudentManagemet\bin\Debug\net7.0-windows\StudentManagemet.deps.json
+C:\Users\keshan\source\repos\StudentManagemet\StudentManagemet\bin\Debug\net7.0-windows\StudentManagemet.runtimeconfig.json
+C:\Users\keshan\source\repos\StudentManagemet\StudentManagemet\bin\Debug\net7.0-windows\StudentManagemet.dll
+C:\Users\keshan\source\repos\StudentManagemet\StudentManagemet\bin\Debug\net7.0-windows\StudentManagemet.pdb
+C:\Users\keshan\source\repos\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.csproj.AssemblyReference.cache
+C:\Users\keshan\source\repos\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\keshan\source\repos\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\keshan\source\repos\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet_MarkupCompile.cache
+C:\Users\keshan\source\repos\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet_MarkupCompile.lref
+C:\Users\keshan\source\repos\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\keshan\source\repos\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.g.resources
+C:\Users\keshan\source\repos\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keshan\source\repos\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.AssemblyInfoInputs.cache
+C:\Users\keshan\source\repos\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.AssemblyInfo.cs
+C:\Users\keshan\source\repos\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.csproj.CoreCompileInputs.cache
+C:\Users\keshan\source\repos\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.dll
+C:\Users\keshan\source\repos\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\refint\StudentManagemet.dll
+C:\Users\keshan\source\repos\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.pdb
+C:\Users\keshan\source\repos\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.genruntimeconfig.cache
+C:\Users\keshan\source\repos\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\ref\StudentManagemet.dll
+C:\Users\keshan\source\repos\StudentManagemet\StudentManagemet\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\keshan\source\repos\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.csproj.CopyComplete
+C:\Users\keshan\source\repos\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\AddStudent.g.cs
+C:\Users\keshan\source\repos\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\keshan\source\repos\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\App.baml
+C:\Users\keshan\source\repos\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\AddStudent.baml
+D:\StudentManagemet\StudentManagemet\bin\Debug\net7.0-windows\StudentManagemet.exe
+D:\StudentManagemet\StudentManagemet\bin\Debug\net7.0-windows\StudentManagemet.deps.json
+D:\StudentManagemet\StudentManagemet\bin\Debug\net7.0-windows\StudentManagemet.runtimeconfig.json
+D:\StudentManagemet\StudentManagemet\bin\Debug\net7.0-windows\StudentManagemet.dll
+D:\StudentManagemet\StudentManagemet\bin\Debug\net7.0-windows\StudentManagemet.pdb
+D:\StudentManagemet\StudentManagemet\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+D:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.csproj.AssemblyReference.cache
+D:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\AddStudent.g.cs
+D:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\EditStudent.g.cs
+D:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\App.g.cs
+D:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet_MarkupCompile.cache
+D:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet_MarkupCompile.lref
+D:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\App.baml
+D:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\AddStudent.baml
+D:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\EditStudent.baml
+D:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\MainWindow.baml
+D:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.g.resources
+D:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.GeneratedMSBuildEditorConfig.editorconfig
+D:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.AssemblyInfoInputs.cache
+D:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.AssemblyInfo.cs
+D:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.csproj.CoreCompileInputs.cache
+D:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.csproj.CopyComplete
+D:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.dll
+D:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\refint\StudentManagemet.dll
+D:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.pdb
+D:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.genruntimeconfig.cache
+D:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\ref\StudentManagemet.dll
+D:\New folder (3)\StudentManagemet\StudentManagemet\bin\Debug\net7.0-windows\StudentManagemet.exe
+D:\New folder (3)\StudentManagemet\StudentManagemet\bin\Debug\net7.0-windows\StudentManagemet.deps.json
+D:\New folder (3)\StudentManagemet\StudentManagemet\bin\Debug\net7.0-windows\StudentManagemet.runtimeconfig.json
+D:\New folder (3)\StudentManagemet\StudentManagemet\bin\Debug\net7.0-windows\StudentManagemet.dll
+D:\New folder (3)\StudentManagemet\StudentManagemet\bin\Debug\net7.0-windows\StudentManagemet.pdb
+D:\New folder (3)\StudentManagemet\StudentManagemet\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+D:\New folder (3)\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.csproj.AssemblyReference.cache
+D:\New folder (3)\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\AddStudent.g.cs
+D:\New folder (3)\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\EditStudent.g.cs
+D:\New folder (3)\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\New folder (3)\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\App.g.cs
+D:\New folder (3)\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\New folder (3)\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet_MarkupCompile.cache
+D:\New folder (3)\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet_MarkupCompile.lref
+D:\New folder (3)\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\App.baml
+D:\New folder (3)\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\AddStudent.baml
+D:\New folder (3)\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\EditStudent.baml
+D:\New folder (3)\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\MainWindow.baml
+D:\New folder (3)\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.g.resources
+D:\New folder (3)\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (3)\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.AssemblyInfoInputs.cache
+D:\New folder (3)\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.AssemblyInfo.cs
+D:\New folder (3)\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.csproj.CoreCompileInputs.cache
+D:\New folder (3)\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.csproj.CopyComplete
+D:\New folder (3)\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.dll
+D:\New folder (3)\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\refint\StudentManagemet.dll
+D:\New folder (3)\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.pdb
+D:\New folder (3)\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.genruntimeconfig.cache
+D:\New folder (3)\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\ref\StudentManagemet.dll
+C:\StudentManagemet\StudentManagemet\bin\Debug\net7.0-windows\StudentManagemet.exe
+C:\StudentManagemet\StudentManagemet\bin\Debug\net7.0-windows\StudentManagemet.deps.json
+C:\StudentManagemet\StudentManagemet\bin\Debug\net7.0-windows\StudentManagemet.runtimeconfig.json
+C:\StudentManagemet\StudentManagemet\bin\Debug\net7.0-windows\StudentManagemet.dll
+C:\StudentManagemet\StudentManagemet\bin\Debug\net7.0-windows\StudentManagemet.pdb
+C:\StudentManagemet\StudentManagemet\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.csproj.AssemblyReference.cache
+C:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\AddStudent.g.cs
+C:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\EditStudent.g.cs
+C:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\App.g.cs
+C:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet_MarkupCompile.cache
+C:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet_MarkupCompile.lref
+C:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\App.baml
+C:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\AddStudent.baml
+C:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\EditStudent.baml
+C:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\MainWindow.baml
+C:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.g.resources
+C:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.GeneratedMSBuildEditorConfig.editorconfig
+C:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.AssemblyInfoInputs.cache
+C:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.AssemblyInfo.cs
+C:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.csproj.CoreCompileInputs.cache
+C:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.csproj.CopyComplete
+C:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.dll
+C:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\refint\StudentManagemet.dll
+C:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.pdb
+C:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.genruntimeconfig.cache
+C:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\ref\StudentManagemet.dll
+E:\StudentManagemet\StudentManagemet\bin\Debug\net7.0-windows\StudentManagemet.exe
+E:\StudentManagemet\StudentManagemet\bin\Debug\net7.0-windows\StudentManagemet.deps.json
+E:\StudentManagemet\StudentManagemet\bin\Debug\net7.0-windows\StudentManagemet.runtimeconfig.json
+E:\StudentManagemet\StudentManagemet\bin\Debug\net7.0-windows\StudentManagemet.dll
+E:\StudentManagemet\StudentManagemet\bin\Debug\net7.0-windows\StudentManagemet.pdb
+E:\StudentManagemet\StudentManagemet\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+E:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.csproj.AssemblyReference.cache
+E:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\AddStudent.g.cs
+E:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\EditStudent.g.cs
+E:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\MainWindow.g.cs
+E:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\App.g.cs
+E:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet_MarkupCompile.cache
+E:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet_MarkupCompile.lref
+E:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\App.baml
+E:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\AddStudent.baml
+E:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\EditStudent.baml
+E:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\MainWindow.baml
+E:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.g.resources
+E:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.AssemblyInfoInputs.cache
+E:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.AssemblyInfo.cs
+E:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.csproj.CoreCompileInputs.cache
+E:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.csproj.CopyComplete
+E:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.dll
+E:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\refint\StudentManagemet.dll
+E:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.pdb
+E:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.genruntimeconfig.cache
+E:\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\ref\StudentManagemet.dll
+C:\Users\keshan\Desktop\StudentManagemet\StudentManagemet\bin\Debug\net7.0-windows\StudentManagemet.exe
+C:\Users\keshan\Desktop\StudentManagemet\StudentManagemet\bin\Debug\net7.0-windows\StudentManagemet.deps.json
+C:\Users\keshan\Desktop\StudentManagemet\StudentManagemet\bin\Debug\net7.0-windows\StudentManagemet.runtimeconfig.json
+C:\Users\keshan\Desktop\StudentManagemet\StudentManagemet\bin\Debug\net7.0-windows\StudentManagemet.dll
+C:\Users\keshan\Desktop\StudentManagemet\StudentManagemet\bin\Debug\net7.0-windows\StudentManagemet.pdb
+C:\Users\keshan\Desktop\StudentManagemet\StudentManagemet\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\keshan\Desktop\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.csproj.AssemblyReference.cache
+C:\Users\keshan\Desktop\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\AddStudent.g.cs
+C:\Users\keshan\Desktop\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\EditStudent.g.cs
+C:\Users\keshan\Desktop\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\keshan\Desktop\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\keshan\Desktop\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\keshan\Desktop\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet_MarkupCompile.cache
+C:\Users\keshan\Desktop\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet_MarkupCompile.lref
+C:\Users\keshan\Desktop\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\App.baml
+C:\Users\keshan\Desktop\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\AddStudent.baml
+C:\Users\keshan\Desktop\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\EditStudent.baml
+C:\Users\keshan\Desktop\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\keshan\Desktop\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.g.resources
+C:\Users\keshan\Desktop\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keshan\Desktop\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.AssemblyInfoInputs.cache
+C:\Users\keshan\Desktop\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.AssemblyInfo.cs
+C:\Users\keshan\Desktop\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.csproj.CoreCompileInputs.cache
+C:\Users\keshan\Desktop\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.csproj.CopyComplete
+C:\Users\keshan\Desktop\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.dll
+C:\Users\keshan\Desktop\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\refint\StudentManagemet.dll
+C:\Users\keshan\Desktop\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.pdb
+C:\Users\keshan\Desktop\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\StudentManagemet.genruntimeconfig.cache
+C:\Users\keshan\Desktop\StudentManagemet\StudentManagemet\obj\Debug\net7.0-windows\ref\StudentManagemet.dll
